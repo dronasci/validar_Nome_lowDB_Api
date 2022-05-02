@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  },
+  "name": "validar_nome_lowdb_api",
+  "version": "1.0.0",
+  "description": "Api para validar um nome humano",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronasci/validar_Nome_lowDB_Api.git"
+  },
+  "author": "Dronasci",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dronasci/validar_Nome_lowDB_Api/issues"
+  },
+  "homepage": "https://github.com/dronasci/validar_Nome_lowDB_Api#readme"
+}
